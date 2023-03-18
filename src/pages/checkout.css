@@ -1,0 +1,57 @@
+.control {
+  margin-bottom: 0.5rem;
+}
+
+.control label {
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  display: block;
+}
+
+.control input {
+  font: inherit;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 20rem;
+  max-width: 100%;
+}
+
+.checkout-btns {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.checkout-btns button {
+  font: inherit;
+  color: #5a1a01;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  border-radius: 25px;
+  padding: 0.5rem 2rem;
+}
+
+.checkout-btns button:hover,
+.checkout-btns button:active {
+  background-color: #ffe6dc;
+}
+
+.checkout-btns .submit {
+  border: 1px solid #5a1a01;
+  background-color: #5a1a01;
+  color: white;
+}
+
+.checkout-btns .submit:hover,
+.checkout-btns .submit:active {
+  background-color: #7a2706;
+}
+
+.feed-back {
+  max-width: 60rem;
+
+  width: 90%;
+  margin: 2rem auto;
+  animation: meals-mounting 1s ease-out forwards;
+}
