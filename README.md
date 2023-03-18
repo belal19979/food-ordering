@@ -28,7 +28,11 @@ The card of user will be empty after he has orderd .
 
 ## Methods and Package
 In this application, context API is used for managed global states. 
+
+
 React-router-dom is used for routuring.
+
+
 Material-UI (MUI) for icons and loading spinner.
 
 ## Folder Structure
