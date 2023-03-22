@@ -1,4 +1,4 @@
-# food Oredering App
+# food Ordering App
 
 This app created via React. [Click here for check App](https://oreder-food.netlify.app/)
 
